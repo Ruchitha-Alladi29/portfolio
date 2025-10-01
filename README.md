@@ -1,2 +1,1 @@
-# portfolio
-my portfolio
+This repository contains the source code for my personal portfolio website, which showcases my projects, skills, and professional background. The portfolio is designed with a clean and responsive layout, making it accessible across desktop, tablet, and mobile devices. It includes sections such as an introduction, project highlights with links to demos and source code, a detailed overview of my skills and technologies, an "About Me" section, and contact information for easy communication. Built using modern web technologies, this portfolio serves as a central hub to present my work and connect with others.
